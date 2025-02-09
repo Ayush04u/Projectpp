@@ -20,10 +20,10 @@ body {
     transition: transform 1s ease;
   }
   
-  #chocolate_box:hover #top {
+/*   #chocolate_box:hover #top {
     transform: translate(40px, -25px) rotate(10deg);
     transition: transform 1s ease;
-  }
+  } */
   
   p {
     font-size: 20px;
